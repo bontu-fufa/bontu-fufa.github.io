@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year master's student studying Artificial Intelligence. My background is in software engineering, but I am also very interested in research. I want to learn how to do research and contribute to the field of AI. My main research interests are in natural language processing and making AI systems that are secure, fair and ethical. I have some experience with natural language processing research, and I want to build on that. As I continue my studies, I am excited to expand my knowledge and skills, and find ways to use AI to make a positive impact.
+I am a master's student studying Artificial Intelligence. My background is in software engineering, but I am also very interested in research. I want to learn how to do research and contribute to the field of AI. My main research interests are in natural language processing and making AI systems that are secure, fair and ethical. I have some experience with natural language processing research, and I want to build on that. As I continue my studies, I am excited to expand my knowledge and skills, and find ways to use AI to make a positive impact.
 
 
 News
